@@ -1,0 +1,12 @@
+/* App.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://tinyurl.com/background-ems-image');
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the background fixed during scrolling */
+    background-position: center; /* Centers the image */
+    color: #fff; /* Ensures text is readable on the background */
+  }
+  
